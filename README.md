@@ -3,8 +3,11 @@ Hi there! I'm Sabbir Ahmed, a passionate Data Analyst and aspiring Data Engineer
 
 💡 What I Do:
 Build scalable data pipelines to streamline data workflows.
+
 Design interactive dashboards and reports to visualise trends and support decision-making.
+
 Analyse and optimise large datasets for insights that matter.
+
 📈 Key Projects:
 Check out some of my featured projects:
 
@@ -22,13 +25,19 @@ Mapped and analysed accident data to identify high-risk areas.
 
 🛠 Skills:
 Programming: Python (Pandas, NumPy), SQL
+
 Data Visualisation: Tableau, Power BI
+
 Cloud Tools: Azure Data Factory, Databricks
+
 Data Management: ETL processes, database optimisation
+
 Languages: English, Arabic, Bengali
+
 🌱 Currently Learning:
 Advanced data engineering techniques
 Exploring machine learning for data analysis
+
 Working on GitHub-hosted projects to expand my portfolio
 🚀 Let's Connect:
 LinkedIn
